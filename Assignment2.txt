@@ -1,0 +1,13 @@
+1. Parse given data file sample_output.json using python.
+	Write 2 python scripts
+	-Parse file using json,csv python library and write output to csv file.
+	-Parse file using Pandas library function and write output to csv file.
+2. Visualize Using power Bi
+	Important visualizations required.
+		-Pie Chart
+		-Bar Graph
+		-Timeseries chart
+		-Map(Plot Latitude,Longitude)
+	Try to visualize as much data as possible. Total ~26 fields At least create visualization using 10-15 fields.
+
+Take screenshots of dashboard. Export as Pdf. Upload to Git repository with Power Bi template file.
